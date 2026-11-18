@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(apt-get update:*)",
+      "Bash(apt-get install:*)",
+      "Bash(debconf-set-selections:*)",
+      "Bash(fc-cache:*)"
+    ]
+  }
+}
